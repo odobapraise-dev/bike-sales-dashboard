@@ -1,6 +1,7 @@
 Bike-sales-dashboard
 Excel dashboard analyzing bike sale data
 Bike Sales Dashboard
+<img width="1120" height="595" alt="excel" src="https://github.com/user-attachments/assets/09a10249-e092-438b-a4ff-4aad039ae9c9" />
 
 About this project
 I built this Excel dashboard to analyze bike sales data and understand how different factors influence customer purchases.
